@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 76c5b16d287ee43779f47d20559d6ec6
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - smallTrack: {instanceID: 0}
+  - mainCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
