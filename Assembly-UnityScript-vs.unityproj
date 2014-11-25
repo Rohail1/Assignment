@@ -46,8 +46,11 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\LongTrack.js" />
-     <Compile Include="Assets\SmallTrack.js" />
+     <Compile Include="Assets\Scripts\DestorySmall.js" />
+     <Compile Include="Assets\Scripts\LongTrack.js" />
+     <Compile Include="Assets\Scripts\LongTrackRotate.js" />
+     <Compile Include="Assets\Scripts\SmallTrack.js" />
+     <Compile Include="Assets\Scripts\SmallTrackRotate.js" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>/Users/rohailnajam/Assignment/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
