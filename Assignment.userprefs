@@ -1,12 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SmallTrackRotate.js">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../robotRepair/Assets/Script/ClockScript.js">
     <Files>
-      <File FileName="Assets/Scripts/SmallTrackRotate.js" Line="32" Column="44" />
-      <File FileName="Assets/Scripts/SmallTrack.js" Line="19" Column="21" />
-      <File FileName="Assets/Scripts/LongTrackRotate.js" Line="28" Column="40" />
-      <File FileName="Assets/Scripts/LongTrack.js" Line="26" Column="24" />
-      <File FileName="Assets/Scripts/DestorySmall.js" Line="14" Column="1" />
+      <File FileName="../robotRepair/Assets/Script/ClockScript.js" Line="87" Column="7" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
