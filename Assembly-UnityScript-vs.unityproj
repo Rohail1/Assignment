@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\LongTrackRotate.js" />
      <Compile Include="Assets\Scripts\SmallTrack.js" />
      <Compile Include="Assets\Scripts\SmallTrackRotate.js" />
+     <Compile Include="Assets\Scripts\charactor.js" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>/Users/rohailnajam/Assignment/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>

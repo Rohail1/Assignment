@@ -1,8 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../robotRepair/Assets/Script/ClockScript.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SmallTrackRotate.js">
     <Files>
-      <File FileName="../robotRepair/Assets/Script/ClockScript.js" Line="87" Column="7" />
+      <File FileName="Assets/Scripts/LongTrackRotate.js" Line="29" Column="43" />
+      <File FileName="Assets/Scripts/SmallTrack.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DestorySmall.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LongTrack.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SmallTrackRotate.js" Line="36" Column="5" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/charactor.js" Line="18" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

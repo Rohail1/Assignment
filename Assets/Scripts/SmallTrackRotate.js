@@ -29,10 +29,10 @@ function OnTriggerEnter(other : Collider)
 			if(!flag)
 			{
 				var number : int = Random.Range(1,5);
-				var angle : float = Random.Range(-15,15);
+				var angle : float = Random.Range(-46,0);
 				lenght.z += number;
 				lenght = this.transform.parent.gameObject.transform.position + lenght;
-				rotation = Quaternion.Euler(0.0,angle,0.0);
+				rotation = Quaternion.Euler(angle,0.0,0.0);
 				var long_track = Instantiate(longTrack,lenght,rotation);
 				flag = true;
 			}
